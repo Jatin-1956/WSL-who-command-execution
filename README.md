@@ -14,7 +14,7 @@ wsl sudo login -f user &nbsp;&nbsp;&nbsp;_#Replace 'user' with your username_
 
 ### #Enter password
 
-/sbin/runlevel &nbsp;&nbsp;&nbsp;_#If 'unknown' is displayed, exit from the shell and redo the process carefully_
+>(optional) /sbin/runlevel &nbsp;&nbsp;&nbsp;_#If 'unknown' is displayed, exit from the shell and redo the process carefully_
 
 who
 
