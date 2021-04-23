@@ -10,11 +10,11 @@ sudo bash -c "echo '[1] [00053] [~~  ] [runlevel] [~       ] [5.4.91-microsoft-s
 
 exit
 
-wsl sudo login -f jatin _#Replace with your username_
+wsl sudo login -f user &nbsp;&nbsp;&nbsp;_#Replace 'user' with your username_
 
 ### #Enter password
 
-/sbin/runlevel
+/sbin/runlevel &nbsp;&nbsp;&nbsp;_#If 'unknown' is displayed, exit from the shell and redo the process carefully_
 
 who
 
@@ -27,4 +27,5 @@ exit
 exit          
 
 
-## Thanks to <a href=https://github.com/therealkenc> therealkenc </a>
+## Thanks to [@therealkenc](https://github.com/therealkenc)
+
